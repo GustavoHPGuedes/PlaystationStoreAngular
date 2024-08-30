@@ -1,0 +1,51 @@
+.divGeral{
+    height: 82%;
+    width: 28%;
+    margin-top: 2%;
+    position: absolute;
+    background: linear-gradient(180deg, rgb(153, 0, 255) 25%, rgb(46, 0, 75) 75%);
+    border-radius: 25px;
+}
+
+.coluna1{
+    margin-left: 4%;
+}
+
+.coluna2{
+    margin-left: 36%;
+}
+
+.coluna3{
+    margin-left: 68%;
+}
+
+img{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15%;
+    border-radius: 20px;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    margin-top: 2.5%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+button{
+    margin-top: 7.5%;
+    width: 40%;
+    height: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 25px;
+}

@@ -1,0 +1,46 @@
+.divGeral{
+    height: 8%;
+    width: 100%;
+    position: absolute;
+    background-color: black;
+}
+
+.divComponents{
+    display: flex;
+    height: 100%;
+}
+
+.divLogo{
+    display: flex;
+    justify-content: start;
+}
+
+.divMenuOpcoes{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+
+img{
+    height: 80%;
+    margin: 0.35%;
+    position: absolute;
+}
+
+.h1Logo{
+    color: white;
+    margin-top: 33%;
+    margin-left: 100%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1{
+    color: white;
+    margin-top: 1.35%;
+    margin-right: 2.5%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}

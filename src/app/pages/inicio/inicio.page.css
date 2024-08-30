@@ -1,0 +1,18 @@
+.divGeral{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: rgba(0,0,0,1);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(128, 0, 202) 35%, rgb(202, 0, 185) 100%);
+}
+
+.divComponents{
+    display: flex;
+    justify-content: start;
+    height: 8%;
+}
+
+.divCards{
+    justify-content: start;
+    height: 92%;
+}
